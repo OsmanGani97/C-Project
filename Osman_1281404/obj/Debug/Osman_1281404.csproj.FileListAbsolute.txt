@@ -1,0 +1,42 @@
+C:\Users\LAB104-04\Desktop\C#project\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.AssemblyReference.cache
+C:\Users\LAB104-04\Desktop\C#project\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-04\Desktop\C#project\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.exe.config
+C:\Users\LAB104-04\Desktop\C#project\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.exe
+C:\Users\LAB104-04\Desktop\C#project\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.pdb
+C:\Users\LAB104-04\Desktop\C#project\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.exe
+C:\Users\LAB104-04\Desktop\C#project\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.pdb
+D:\Round -59\C#project\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.exe.config
+D:\Round -59\C#project\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.exe
+D:\Round -59\C#project\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.pdb
+D:\Round -59\C#project\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.AssemblyReference.cache
+D:\Round -59\C#project\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.CoreCompileInputs.cache
+D:\Round -59\C#project\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.exe
+D:\Round -59\C#project\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.pdb
+\\192.168.188.234\Shared\Projects\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.exe.config
+\\192.168.188.234\Shared\Projects\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.exe
+\\192.168.188.234\Shared\Projects\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.pdb
+\\192.168.188.234\Shared\Projects\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.AssemblyReference.cache
+\\192.168.188.234\Shared\Projects\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.CoreCompileInputs.cache
+\\192.168.188.234\Shared\Projects\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.exe
+\\192.168.188.234\Shared\Projects\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.pdb
+D:\M3(C#)\Project_R59_ACSL\1281404\Osman_1281404\bin\Debug\Osman_1281404.exe.config
+D:\M3(C#)\Project_R59_ACSL\1281404\Osman_1281404\bin\Debug\Osman_1281404.exe
+D:\M3(C#)\Project_R59_ACSL\1281404\Osman_1281404\bin\Debug\Osman_1281404.pdb
+D:\M3(C#)\Project_R59_ACSL\1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.AssemblyReference.cache
+D:\M3(C#)\Project_R59_ACSL\1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.CoreCompileInputs.cache
+D:\M3(C#)\Project_R59_ACSL\1281404\Osman_1281404\obj\Debug\Osman_1281404.exe
+D:\M3(C#)\Project_R59_ACSL\1281404\Osman_1281404\obj\Debug\Osman_1281404.pdb
+D:\phn\1281404\1281404\Osman_1281404\bin\Debug\Osman_1281404.exe.config
+D:\phn\1281404\1281404\Osman_1281404\bin\Debug\Osman_1281404.exe
+D:\phn\1281404\1281404\Osman_1281404\bin\Debug\Osman_1281404.pdb
+D:\phn\1281404\1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.AssemblyReference.cache
+D:\phn\1281404\1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.CoreCompileInputs.cache
+D:\phn\1281404\1281404\Osman_1281404\obj\Debug\Osman_1281404.exe
+D:\phn\1281404\1281404\Osman_1281404\obj\Debug\Osman_1281404.pdb
+E:\Projects\C#\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.exe.config
+E:\Projects\C#\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.exe
+E:\Projects\C#\Osman_1281404\Osman_1281404\bin\Debug\Osman_1281404.pdb
+E:\Projects\C#\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.AssemblyReference.cache
+E:\Projects\C#\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.exe
+E:\Projects\C#\Osman_1281404\Osman_1281404\obj\Debug\Osman_1281404.pdb
